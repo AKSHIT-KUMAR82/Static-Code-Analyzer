@@ -1,0 +1,5 @@
+python3 codeguardian.py "Vulnerable C Files/sql_injection.c"
+python3 codeguardian.py "Vulnerable C Files/hardcoded_password.c"
+python3 codeguardian.py "inefficient C Files/buffer_overflow.c"
+python3 codeguardian.py "inefficient C Files/inefficient_loop.c"
+python3 codeguardian.py "inefficient C Files/unused_variable.c"
